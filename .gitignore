@@ -4,5 +4,9 @@ gulp-jspm/
 gulpTest/
 testProject/
 node_modules/
+jspm_packages/
+build.js.map
+package.json
+config.js
 
 multiinst
