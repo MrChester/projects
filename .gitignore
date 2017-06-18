@@ -1,8 +1,3 @@
-resources/
-BelHard/
-gulp-jspm/
-gulpTest/
-testProject/
 node_modules/
 jspm_packages/
 build.js.map
@@ -11,5 +6,8 @@ config.js
 homework1/
 homework4/
 js/
+BelHard/
 
 multiinst
+
+headFirstHTML/
